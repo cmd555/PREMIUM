@@ -1,2 +1,2 @@
-from PREMIUM import menu
+from HAADI import menu
 menu()
